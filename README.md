@@ -1,2 +1,2 @@
 # Weather-Dashboard
-Adashbooard for weather forecast
+A dashboard for weather forecast
